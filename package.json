@@ -1,0 +1,24 @@
+{
+    "name": "tall-stack",
+    "displayName": "TALL stack",
+    "description": "Tailwind, Alpine.js, Laravel, and Livewire.",
+    "author": {
+		"name": "entexa"
+    },
+    "publisher": "entexa",
+    "version": "0.0.5",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "icon": "tallstack-logo.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bradlc.vscode-tailwindcss",
+        "adrianwilczynski.alpine-js-intellisense", 
+        "amiralizadeh9480.laravel-extra-intellisense", 
+        "amirmarmul.laravel-blade-vscode", 
+        "cierra.livewire-vscode"
+    ]
+}
