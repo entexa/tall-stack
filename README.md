@@ -33,3 +33,9 @@ Laravel Blade Snippets, Syntax Highlighting and Formatting for VS Code.
 
 # Livewire Language Support
 Laravel language support for VSCode. With this package you gain functionallities like autocomplete, snippets, auto-discovery of properties and more.
+
+
+# Livewire goto
+Livewire goto class
+
+![Screen Shot](https://github.com/lakuapik/vscode-livewire-goto/raw/master/img/preview.gif)

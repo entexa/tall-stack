@@ -1,14 +1,14 @@
 {
     "name": "tall-stack",
     "displayName": "TALL stack",
-    "description": "Tailwind, Alpine.js, Laravel, and Livewire.",
+    "description": "Tailwind, Alpine.js, Laravel, Livewire.",
     "author": {
 		"name": "entexa"
     },
     "publisher": "entexa",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.50.0"
     },
     "icon": "tallstack-logo.png",
     "categories": [
@@ -19,6 +19,7 @@
         "adrianwilczynski.alpine-js-intellisense", 
         "amiralizadeh9480.laravel-extra-intellisense", 
         "amirmarmul.laravel-blade-vscode", 
-        "cierra.livewire-vscode"
+        "cierra.livewire-vscode",
+        "lakuapik.livewire-goto"
     ]
 }
