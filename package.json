@@ -6,7 +6,7 @@
 		"name": "entexa"
     },
     "publisher": "entexa",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -16,6 +16,7 @@
     ],
     "extensionPack": [ 
         "bradlc.vscode-tailwindcss",
+        "heybourn.headwind",
         "adrianwilczynski.alpine-js-intellisense", 
         "amiralizadeh9480.laravel-extra-intellisense", 
         "amirmarmul.laravel-blade-vscode", 
