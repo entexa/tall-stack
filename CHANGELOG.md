@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.2] - 2020-12-03
+### Added
+- Laravel Blade formatter (shufo.vscode-blade-formatter)
+
+
+## [1.0.1] - 2020-11-30
+### Added
+- TALL stack info telegram channel ( https://t.me/tallstack ).
+
+
 ## [0.0.7] - 2020-11-26
 ### Added
 - Headwind extension (class sorter for Tailwind CSS).
