@@ -7,11 +7,12 @@
 		"name": "entexa"
     },
     "publisher": "entexa",
-    "version": "1.0.5",
+    "repository": "https://github.com/entexa/tall-stack",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.50.0"
     },
-    "icon": "tallstack-logo.png",
+    "icon": "tall-stack-logo.png",
     "categories": [
         "Extension Packs"
     ],
