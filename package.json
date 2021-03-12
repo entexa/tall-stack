@@ -8,7 +8,8 @@
     "alpine",
     "laravel",
     "livewire",
-    "blade"
+    "blade",
+    "artisan"
   ],
   "author": {
     "name": "entexa"
@@ -18,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/entexa/tall-stack.git"
   },
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -31,6 +32,7 @@
     "heybourn.headwind",
     "adrianwilczynski.alpine-js-intellisense",
     "amiralizadeh9480.laravel-extra-intellisense",
+    "ryannaddy.laravel-artisan",
     "amirmarmul.laravel-blade-vscode",
     "shufo.vscode-blade-formatter",
     "cierra.livewire-vscode",

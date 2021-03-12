@@ -53,6 +53,13 @@ Laravel Blade Snippets, Syntax Highlighting and Formatting for VS Code.
 
 ![Laravel Blade formatter](https://github.com/shufo/vscode-blade-formatter/raw/master/screencast.gif)
 
+## Laravel Artisan
+
+Run Laravel Artisan commands within Visual Studio Code
+
+![Laravel Artisan commands](https://github.com/TheColorRed/vscode-laravel-artisan/raw/master/./images/screens/make-controller.gif)
+
+
 
 
 # Livewire

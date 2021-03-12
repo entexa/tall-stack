@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.8] - 2021-03-12
+### Added
+- Laravel Artisan (ryannaddy.laravel-artisan)
+
 ## [1.0.2] - 2020-12-03
 ### Added
 - Laravel Blade formatter (shufo.vscode-blade-formatter)
