@@ -10,7 +10,7 @@ App Bindings, Assets, Blade, Config, Eloquent, Env, Inertia, Route, Middleware, 
 
 Integrates Laravel Pint into your VSCode projects for automatic code formatting.
 
-# Livewire Language Support
+## Livewire Language Support
 
 Laravel livewire language support for VSCode. With this package you gain functionallities like autocomplete, snippets, auto-discovery of properties and more.
 
