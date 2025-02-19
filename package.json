@@ -4,12 +4,11 @@
   "description": "Tailwind CSS, Alpine.js, Laravel, Livewire extension pack",
   "keywords": [
     "tall",
-    "tailwind",
-    "alpine",
+    "tailwindcss",
+    "alpinejs",
     "laravel",
     "livewire",
-    "blade",
-    "artisan"
+    "laravel-pint"
   ],
   "author": {
     "name": "entexa"
@@ -19,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/entexa/tall-stack.git"
   },
-  "version": "1.0.9",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -29,12 +28,9 @@
   ],
   "extensionPack": [
     "bradlc.vscode-tailwindcss",
-    "heybourn.headwind",
     "adrianwilczynski.alpine-js-intellisense",
-    "amiralizadeh9480.laravel-extra-intellisense",
-    "ryannaddy.laravel-artisan",
-    "shufo.vscode-blade-formatter",
-    "cierra.livewire-vscode",
-    "lakuapik.livewire-goto"
+    "laravel.vscode-laravel",
+    "open-southeners.laravel-pint",
+    "cierra.livewire-vscode"
   ]
 }

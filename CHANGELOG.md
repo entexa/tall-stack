@@ -1,51 +1,66 @@
 # Change Log
 
+## [1.1.0] - 2025-02-19
+
+### Added
+
+-   Laravel Official extention "laravel.vscode-laravel",
+-   Laravel Pint automatic code formatting "open-southeners.laravel-pint"
+
+### Removed
+
+-   Headwind "heybourn.headwind",
+-   Laravel Extra Intellisense "amiralizadeh9480.laravel-extra-intellisense",
+-   Laravel Artisan "ryannaddy.laravel-artisan",
+-   Blade Formatter "shufo.vscode-blade-formatter",
+-   Livewire-goto "lakuapik.livewire-goto"
+
 ## [1.0.9] - 2021-04-25
 
 ### Removed
 
-- Laravel Blade (amirmarmul.laravel-blade-vscode)
+-   Laravel Blade (amirmarmul.laravel-blade-vscode)
 
 ## [1.0.8] - 2021-03-12
 
 ### Added
 
-- Laravel Artisan (ryannaddy.laravel-artisan)
+-   Laravel Artisan (ryannaddy.laravel-artisan)
 
 ## [1.0.2] - 2020-12-03
 
 ### Added
 
-- Laravel Blade formatter (shufo.vscode-blade-formatter)
+-   Laravel Blade formatter (shufo.vscode-blade-formatter)
 
 ## [1.0.1] - 2020-11-30
 
 ### Added
 
-- TALL stack info telegram channel ( https://t.me/tallstack ).
+-   TALL stack info telegram channel ( https://t.me/tallstack ).
 
 ## [0.0.7] - 2020-11-26
 
 ### Added
 
-- Headwind extension (class sorter for Tailwind CSS).
+-   Headwind extension (class sorter for Tailwind CSS).
 
 ## [0.0.6] - 2020-10-14
 
 ### Added
 
-- Livewire goto vscode extension.
+-   Livewire goto vscode extension.
 
 ## [0.0.5] - 2020-09-29
 
 ### Added
 
-- "Laravel Blade" Laravel Blade Snippets, Syntax Highlighting and Formatting for VS Code (amirmarmul.laravel-blade-vscode)
+-   "Laravel Blade" Laravel Blade Snippets, Syntax Highlighting and Formatting for VS Code (amirmarmul.laravel-blade-vscode)
 
 ### Changed
 
-- Better code formatting for blade.
+-   Better code formatting for blade.
 
 ### Removed
 
-- "Laravel Blade Snippets" (onecentlin.laravel-blade).
+-   "Laravel Blade Snippets" (onecentlin.laravel-blade).
